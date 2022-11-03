@@ -15,7 +15,7 @@ A simple counter app for WearOS made as a learning exercise.
 
 ## Install
 
-- Sideload the APK, provided in the [Releases](/releases/latest) tab.
+- [Sideload](https://9to5google.com/2021/04/17/install-sideload-wear-os-apps/) the APK, provided in the [Releases](/releases/latest) tab.
 
 ## Contribute
 
