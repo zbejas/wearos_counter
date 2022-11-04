@@ -16,8 +16,3 @@ A simple counter app for WearOS made as a learning exercise.
 ## Install
 
 - [Sideload](https://www.xda-developers.com/wear-installer-sideload-wear-os-apps/) the APK, provided in the [Releases](https://github.com/zbejas/wearos_counter/releases) tab.
-
-## Contribute
-
-- [Issues menu](https://github.com/zbejas/wearos_counter/issues) for reporting any bugs, requesting features, helping with issues...
-- [Send](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) a pull request
