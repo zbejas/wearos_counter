@@ -11,7 +11,7 @@ A simple counter app for WearOS made as a learning exercise.
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/50620416/199855066-1b88b697-3e61-4bdf-bc3b-7b1f9bd547bf.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855081-0b307f93-39f3-40fd-9b5c-aa944981857a.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855098-bf7da3e5-b170-411f-93b2-e73fb3e4d535.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855106-a96b5615-156b-4af7-aee8-e7c551469356.png" width="200">
+<img src="https://user-images.githubusercontent.com/50620416/199996843-931e7e7e-6f22-4995-8f6a-f5be2bd58487.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855081-0b307f93-39f3-40fd-9b5c-aa944981857a.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199997193-55436df7-0924-4e1c-a67d-a3ac742151e6.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855098-bf7da3e5-b170-411f-93b2-e73fb3e4d535.png" width="200"> <img src="https://user-images.githubusercontent.com/50620416/199855106-a96b5615-156b-4af7-aee8-e7c551469356.png" width="200">
 
 ## Install
 
