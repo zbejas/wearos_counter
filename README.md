@@ -16,3 +16,5 @@ A simple counter app for WearOS made as a learning exercise.
 ## Install
 
 - [Sideload](https://www.xda-developers.com/wear-installer-sideload-wear-os-apps/) the APK, provided in the [Releases](https://github.com/zbejas/wearos_counter/releases) tab.
+
+[<img src="https://user-images.githubusercontent.com/50620416/199857312-e2428172-d5f6-4774-ae1e-19e29f57ec13.png" width=220>](https://github.com/zbejas/wearos_counter/releases)
