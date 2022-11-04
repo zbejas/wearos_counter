@@ -21,7 +21,7 @@ class AmbientScreen extends StatelessWidget {
     return Center(
       child: SingleChildScrollView(
         child: Padding(
-          padding: const EdgeInsets.all(25.0),
+          padding: const EdgeInsets.all(20.0),
           child: Column(
             children: [
               // todo: display all counters in the list in a 2x2 grid
